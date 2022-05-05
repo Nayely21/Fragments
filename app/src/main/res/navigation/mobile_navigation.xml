@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.fragments.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/calcu"
+        android:name="com.example.fragments.calcu"
+        android:label="Calculadora"
+        tools:layout="@layout/fragment_calcu" />
+    <fragment
+        android:id="@+id/sonido"
+        android:name="com.example.fragments.ui.sonidos.SonidosFragment"
+        android:label="Sonidos"
+        tools:layout="@layout/fragment_sonidos" />
+    <fragment
+        android:id="@+id/navegacion"
+        android:name="com.example.fragments.Navegacion"
+        android:label="Web"
+        tools:layout="@layout/fragment_navegacion" />
+    <fragment
+        android:id="@+id/aplicaciones"
+        android:name="com.example.fragments.ui.abriraplicaciones.AbrirAplicacionesFragment"
+        android:label="Aplicaciones"
+        tools:layout="@layout/fragment_abriraplicaciones" />
+    <fragment
+        android:id="@+id/centrosturisticos"
+        android:name="com.example.fragments.ui.centrosturisticos.CentrosTuristicosFragment"
+        android:label="Centros turisticos de Quillabamba"
+        tools:layout="@layout/fragment_centrosturisticos" />
+    <fragment
+        android:id="@+id/ubicacion"
+        android:name="com.example.fragments.Ubicacion"
+        android:label="Ubicacion"
+        tools:layout="@layout/fragment_ubicacion" />
+</navigation>

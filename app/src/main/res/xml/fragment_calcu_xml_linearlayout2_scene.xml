@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@id/start"
+        motion:duration="1000">
+       <KeyFrameSet>
+       </KeyFrameSet>
+        <OnSwipe />
+        <OnSwipe motion:touchAnchorSide="bottom" />
+        <OnSwipe />
+        <OnSwipe
+            motion:dragDirection="dragRight"
+            motion:touchAnchorSide="bottom" />
+        <OnClick motion:targetId="@+id/gridLayout" />
+        <OnSwipe
+            motion:dragDirection="dragDown"
+            motion:touchAnchorSide="right" />
+        <OnSwipe motion:dragDirection="dragDown" />
+        <OnClick />
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+        <Constraint
+            android:id="@+id/gridLayout"
+            android:layout_width="408dp"
+            android:layout_height="14dp"
+            motion:layout_editor_absoluteY="34dp" />
+    </ConstraintSet>
+</MotionScene>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/activity_main.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/activity_splash_bienvenida.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_abriraplicaciones.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_calcu.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_centrosturisticos.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_home.xml" value="0.1652892561983471" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_navegacion.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_sonidos.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/fragment_ubicacion.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments - copia/app/src/main/res/layout/nav_header_main.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/drawable-v24/ic_play.xml" value="0.115" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/drawable/ic_menu_camera.xml" value="0.185" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.185" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.185" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/drawable/side_nav_bar.xml" value="0.185" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/font/aclonica.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/activity_splash_bienvenida.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/activity_splashmujer.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/content_main.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_abriraplicaciones.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_aplicaciones.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_artissalsa.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_calcu.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_centrosturisticos.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_gym.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_maravillasmodernas.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_navegacion.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_sonido.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_sonidos.xml" value="0.4" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_splashmuj.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_ubicacion.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Fragments/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.185" />
+        <entry key="..\:/Users/USER/Music/proyectos/Fragments - copia/app/src/main/res/layout/activity_splash_bienvenida.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/USER/Music/proyectos/Fragments - copia/app/src/main/res/layout/app_bar_main.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/USER/Music/proyectos/Fragments - copia/app/src/main/res/layout/fragment_sonidos.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/USER/Music/proyectos/Fragments - copia/app/src/main/res/layout/fragment_ubicacion.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/USER/Music/proyectos/Fragments - copia/app/src/main/res/layout/nav_header_main.xml" value="0.20923913043478262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/calcu"
+            android:icon="@drawable/calcu"
+            android:title="Calculadora" />
+
+        <item
+            android:id="@+id/sonido"
+            android:icon="@drawable/sonido"
+            android:title="Sonidos" />
+
+        <item
+            android:id="@+id/navegacion"
+            android:icon="@drawable/navegar"
+            android:title="Web" />
+        <item
+            android:id="@+id/aplicaciones"
+            android:icon="@drawable/aplicacion"
+            android:title="Aplicaciones" />
+
+        <item
+            android:id="@+id/centrosturisticos"
+            android:icon="@drawable/centrosicon"
+            android:title="Centros Turisticos" />
+
+        <item
+            android:id="@+id/ubicacion"
+            android:icon="@drawable/ubicacion"
+            android:title="Ubicacion" />
+    </group>
+</menu>

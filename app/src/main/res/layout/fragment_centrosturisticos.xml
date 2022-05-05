@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondosturisticos"
+    android:padding="30dp"
+    app:layoutDescription="@xml/fragment_centrosturisticos_scene"
+    tools:context=".ui.centrosturisticos.CentrosTuristicosFragment">
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/pacifico"
+                android:text="CENTROS TURISTICOS DE QUILLABAMBA"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                app:srcCompat="@drawable/sietetinajas" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                android:fontFamily="@font/letra1"
+                android:text="Siete Tinajas"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/pacifico"
+                android:text="Siete Tinajas, es un interesante recurso natural que el viajero puede encontrar al visitar el distrito de Echarate, en la provincia de La Convención en el Cusco. El nombre que presenta esta catarata, se debe a las pozas naturales que el tiempo y la naturaleza han formado en el lugar, y que suman un total de siete."
+                android:textAlignment="center"
+                android:textSize="15dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                app:srcCompat="@drawable/cocalmayo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                android:fontFamily="@font/letra1"
+                android:text="Cocalmayo"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/pacifico"
+                android:text="No hay nada mejor que tomar un baño caliente en la naturaleza, mientras disfruta una bebida de “aguaymanto”. Tomar un baño en los Baños Termales de Cocalmayo, es una gran experiencia. Se sitúa entre un enorme rio y una pequeña montaña. En Cocalmayo las bañistas pueden disfrutar de piscinas al aire libre alimentadas por fuentes termales naturales, construidos entre una pequeña montaña llena de vegetación y el rio Urubamba. Encontrara 3 piscinas de distintos tamaños y profundidades. La temperatura del agua varía entre 38 y 44 ºC y a diferencia de la mayoría de aguas termales en Perú, tiene aguas claras. Muy cerca de las piscinas hay duchas frías, el agua proviene de las lagunas de Uripata y es muy refrescante; la mezcla de aguas le dará una sensación muy reconfortante."
+                android:textAlignment="center"
+                android:textSize="14dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                app:srcCompat="@drawable/sambaray" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                android:fontFamily="@font/letra1"
+                android:text="Sambaray"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/pacifico"
+                android:text="El Balneario de Sambaray se encuentra ubicado en la ciudad de Quillabamaba, en la margen izquierda del río Urubamba y está ubicado a unos 10 minutos del centro de Quillabamba.El Balneario está construida sobre una planicie llena de vegetación, durante la época de lluvias sube el caudal del río haciendo posible la realización de deportes acuáticos como canotaje."
+                android:textAlignment="center"
+                android:textSize="14dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                app:srcCompat="@drawable/illapani" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                android:fontFamily="@font/letra1"
+                android:text="Cataratas de Illapani"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/pacifico"
+                android:text="La Catarata de Illapani, es un hermoso recurso natural con más de 80 metros de altura, cuyas aguas provienen de las cabeceras de la montaña Urusayhua, las aguas que discurren de esta catarata forman una poza natural de aproximadamente 15 metros de diámetro y 60 metros de perímetro, esto permite a los visitantes realizar actividades de disfrute en los alrededores de la catarata, esta caída de agua, es la más popular de la provincia de La Convención y de hecho se encuentra conformada por un grupo de precipitaciones que acompañan un escenario poblado de una encantadora vegetación."
+                android:textAlignment="center"
+                android:textSize="14dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

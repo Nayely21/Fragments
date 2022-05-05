@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@id/start"
+        motion:duration="1000">
+       <KeyFrameSet>
+       </KeyFrameSet>
+        <OnSwipe motion:touchAnchorSide="right" />
+        <OnSwipe
+            motion:dragDirection="dragDown"
+            motion:touchAnchorSide="right" />
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint
+            motion:layout_constraintVertical_bias="0.022"
+            android:layout_height="31dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintHorizontal_bias="0.915"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="93dp"
+            android:id="@+id/btn_ir" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+        <Constraint
+            motion:layout_constraintVertical_bias="0.142"
+            android:layout_height="41dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintHorizontal_bias="0.556"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="129dp"
+            android:id="@+id/btn_ir" />
+        <Constraint
+            motion:layout_constraintVertical_bias="0.073"
+            android:layout_height="50dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintHorizontal_bias="0.602"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="214dp"
+            android:id="@+id/txtWeb" />
+    </ConstraintSet>
+</MotionScene>
